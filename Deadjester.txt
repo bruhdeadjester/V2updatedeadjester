@@ -2,3 +2,4 @@ vless://e1a928be-e289-4aef-b92e-4106fabdf42f@port80----join.outline-vpn.cloud:80
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?security=none&encryption=none&type=ws&host=mahi.kosnanatfilterchi.eu.org&path=/?ed%3D2048#Kati2
 vless://a9281288-3659-4eea-9044-58291062ab6f@172.66.47.74:2087?security=tls&encryption=none&type=grpc&sni=lengwi12.chipkayin.shop&fp=chrome#Kati3
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?security=tls&encryption=none&type=ws&host=3k.pureboy.eu.org&path=/?ed%3D2048&sni=3k.pureboy.eu.org&fp=chrome#Kati5
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@aw--join.outline-vpn.cloud:443?security=tls&encryption=none&type=ws&host=3k.pureboy.eu.org&path=/?ed%3D2048&sni=3k.pureboy.eu.org&fp=chrome#Kati6
