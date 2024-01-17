@@ -7,3 +7,5 @@ vless://584181cb-f0c5-4df1-a4bf-6071a0fd1457@173.245.59.41:80?security=none&encr
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?security=none&encryption=none&type=ws&host=mahi.kosnanatfilterchi.eu.org&path=/?ed%3D2048#Kati8
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?security=none&encryption=none&type=ws&host=mahi.kosnanatfilterchi.eu.org&path=/?ed%3D2048#Kati9
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@zula.ir:80?security=none&encryption=none&type=ws&host=mahi.kosnanatfilterchi.eu.org&path=/?ed%3D2048#Kati10
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJjQHNlcmllcy1hMi1tZWMuc2FtYW5laGhhLmNvOjQ0Mw==#Kati11
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJjQHNlcmllcy1hMi1tZWMuc2FtYW5laGhhLmNvOjQ0Mw==#Kati12
