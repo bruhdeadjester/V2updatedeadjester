@@ -9,3 +9,4 @@ vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?security=none&encr
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@zula.ir:80?security=none&encryption=none&type=ws&host=mahi.kosnanatfilterchi.eu.org&path=/?ed%3D2048#Kati10
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJjQHNlcmllcy1hMi1tZWMuc2FtYW5laGhhLmNvOjQ0Mw==#Kati11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJjQHNlcmllcy1hMi1tZWMuc2FtYW5laGhhLmNvOjQ0Mw==#Kati12
+vless://-MsV2ray--MsV2ray-@All.MsV2ray.online:2095?security=none&encryption=none&type=ws&host=q.q.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.website&path=/@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray?ed%3D2048#Kati13
