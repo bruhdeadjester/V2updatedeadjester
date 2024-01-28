@@ -24,3 +24,8 @@ vless://ff6e8446-3e7d-467e-b47b-6a95296ca2aa@www.tozedmodeon.store:2095?security
 vless://7340f9b3-0907-445f-aaf9-304437af3153@TUNELSERVER.myelf.me:8080?security=none&encryption=none&type=ws&host=VPNCUSTOMIZE-V2ray.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.tech&path=/?ed%3D2048#Kati25
 trojan://telegram-id-privatevpns@13.39.38.92:22222?security=tls&sni=trojan.miwan.co.uk&fp=chrome&headerType=none&alpn=http/1.1&type=tcp#Kati26
 trojan://Libertas*One*@:443?security=tls&sni=ironone.libertasiran.cloud&fp=chrome&type=ws&path=/n890#Kati27 
+vless://9e60d388-51e9-4b81-afab-2b7afee91033@104.25.38.239:80?security=none&encryption=none&type=ws&host=moz.soft98.dedyn.io&path=/Oo8ihIMGW-81NFGJ?ed%3D2048#Kati28
+vless://086685dd-5c8c-48cb-9eff-4c1c20e3063a@104.25.38.239:80?security=none&encryption=none&type=ws&host=pikokochoolo.soft98.dedyn.io&path=/?ed%3D2048#Kati29
+vless://086685dd-5c8c-48cb-9eff-4c1c20e3063a@104.21.59.125:443?security=tls&encryption=none&type=ws&host=pikokochoolo.soft98.dedyn.io&path=/?ed%3D2048&sni=pikokochoolo.soft98.dedyn.io&fp=chrome#Kati30
+vless://9e60d388-51e9-4b81-afab-2b7afee91033@104.25.38.239:443?security=tls&encryption=none&type=ws&host=moz.soft98.dedyn.io&path=/Oo8ihIMGW-81NFGJ?ed%3D2048&sni=moz.soft98.dedyn.io&fp=randomized&alpn=h2,http/1.1#Kati31
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.21.59.125:80?security=none&encryption=none&type=ws&host=mahi.kosnanatfilterchi.eu.org&path=/?ed%3D2048#Kati32
