@@ -38,3 +38,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJjQHNlcmllcy1hMi1tZWMuc2F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJjQHNlcmllcy1hMi1tZWMuc2FtYW5laGhhLmNvOjQ0Mw==#Kati39
 vmess://eyJ0bHMiOiJub25lIiwicGF0aCI6IiIsImFpZCI6IjAiLCJzZWVkIjoiIiwic25pIjoiIiwiaG9zdCI6IiIsInNlcnZpY2VOYW1lIjoibm9uZSIsImZwIjoiIiwibmV0IjoidGNwIiwidiI6IjIiLCJwcyI6IkthdGk0MCIsImlkIjoiNjYyMTRkNzgtYjMzYy00NTlhLWE3YjktZTUwYWIxOWQxNmI5IiwicG9ydCI6IjEyODg4IiwiYWxwbiI6IiIsInR5cGUiOiJub25lIiwiYWRkIjoiNjIuNjAuMTMxLjIzOCIsImhlYWRlclR5cGUiOiJub25lIn0=
 vless://97092db4-f8ce-458f-889f-e93f129926d5@162.159.24.201:2053?security=tls&encryption=none&type=grpc&sni=server5.ehsa0535.top&fp=chrome&alpn=h2,http/1.1#Kati41
+vless://8c71e2db-ebb2-4f05-a6b0-77498af75522@185.208.78.141:23502?security=none&encryption=none&type=ws&path=/#Kati42
+vless://6fdcbaff-5258-438f-975b-3a4bf81c3ab5@104.21.32.9:8080?security=none&encryption=none&type=ws&host=2c1f8952cf05b043.ger.pydarshop.ir&path=/#Kari43
