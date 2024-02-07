@@ -15,3 +15,4 @@ vless://de74ef5a-bb91-4ab5-8abe-4cda2c2a3956@45.89.236.147:63058?security=none&e
 vless://cf3387ab-d4b0-509c-aef3-ec53799f0081@185.162.230.39:443?security=tls&encryption=none&type=ws&host=0nlinesr0-gr.v2ex.digital&path=/&sni=428b9508-e066-Skyroom-online-428b9508-e066-44c1-ba5f-111db03db05tr.v2ex.digital&fp=chrome#Kati15
 vless://bd814ba3-7c14-4f5e-90a0-94febb48d88c@46.225.120.35:8443?security=none&encryption=none&type=tcp&host=google.com&path=/&headerType=http#Kati16
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRRQHNlcmllcy1hMi1tZS5zYW1hbmVoaGEuY286NDQz#Kati17
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqMXRhZnNTMG1TelpLRnBjQloybmx6QDM4LjE4MC4zNi41MDoyMjQxNA==#Kati18
