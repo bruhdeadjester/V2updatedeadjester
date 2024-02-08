@@ -16,3 +16,4 @@ vless://cf3387ab-d4b0-509c-aef3-ec53799f0081@185.162.230.39:443?security=tls&enc
 vless://bd814ba3-7c14-4f5e-90a0-94febb48d88c@46.225.120.35:8443?security=none&encryption=none&type=tcp&host=google.com&path=/&headerType=http#Kati16
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRRQHNlcmllcy1hMi1tZS5zYW1hbmVoaGEuY286NDQz#Kati17
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqMXRhZnNTMG1TelpLRnBjQloybmx6QDM4LjE4MC4zNi41MDoyMjQxNA==#Kati18
+vless://05c0cf3e-d431-4686-e905-01e715f5fb6a@91.236.169.1:49858?type=tcp&headerType=http&host=snapp.ir&security=none#Kati19
