@@ -12,3 +12,4 @@ vless://db0cd79e-5a22-4ce2-b784-03f8c9325cc4@zula.ir:2052?security=none&encrypti
 vmess://eyJzbmkiOiIiLCJhbHBuIjoiIiwiaGVhZGVyVHlwZSI6IiIsIm5ldCI6IndzIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwicHMiOiJLYXRpMTIiLCJmcCI6IiIsImFkZCI6IjE4OC4xMTQuOTYuMTEzIiwidiI6IjIiLCJpZCI6IjJhMzQ2YzU3LTVmZjQtNGU0Yi1hNGQxLWYzZDAwOGNiZTA5ZSIsImFpZCI6IjAiLCJob3N0Ijoic2VydmVyMjguYmVoZXNodGJhbmVoLmNvbSIsInBhdGgiOiJcLyIsInNlZWQiOiIiLCJwb3J0IjoiODg4MCIsInNlcnZpY2VOYW1lIjoibm9uZSJ9
 vless://5586b083-5feb-48b8-969d-5df7562bdb30@www.mini4k.com:443?security=tls&encryption=none&type=grpc&sni=seed.abolii.com&fp=chrome#Kati13
 vless://6ab2dd90-ac94-4ed1-8cd1-29a362ccdc4c@104.21.19.250:2087?security=tls&encryption=none&type=grpc&sni=academy.appclouddeveloper.com&fp=chrome&alpn=h2,http/1.1#Kati14
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINUdxMnpMY1RRSTBhTzZNWjJ1dDBa@51.140.140.204:56506?type=tcp#Kati15
