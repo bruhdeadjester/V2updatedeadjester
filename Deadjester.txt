@@ -16,3 +16,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINUdxMnpMY1RRSTBhTzZNWjJ1dDBa@51.140.140.204
 trojan://XechrYliyMty@13.40.129.140:12622?security=tls&sni=www.myethblog.com&fp=chrome&headerType=none&alpn=h2,http/1.1&type=tcp#Kati16
 trojan://BeE9BngOqWrJ@35.178.196.3:12620?security=tls&sni=www.myethblog.com&fp=chrome&headerType=none&alpn=h2,http/1.1&type=tcp#Kati17
 trojan://csh2XY1yEaxu@35.183.4.238:12629?security=tls&sni=www.myethblog.com&fp=chrome&headerType=none&alpn=h2,http/1.1&type=tcp#Kati18
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLMjI3c1V2b0lJNGlMZkpKNFUwTExPQDUyLjE0Mi4xOTAuNzA6MTM0OTk=#Kati19
