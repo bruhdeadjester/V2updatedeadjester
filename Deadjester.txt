@@ -6,3 +6,6 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?flow=&type=ws&host
 vless://8c8f6b6a-acf9-4013-8b70-c729aca8195c@172.67.191.234:8443?flow=&type=grpc&mode=gun&serviceName=&security=tls&fp=chrome&sni=01.ev02-02-q2wx8ryz0vic3bfmd1sng7pjjn6lqk4p.tech&alpn=h2,http/1.1#Kati6
 vless://d6f405a8-ce83-42cb-a356-f433554df698@shhproxy.varzesh3-cnd.site:8080?flow=&type=ws&host=SHHproxY.XN--85-PV2cl2K5x3fIPr.oRg&path=/#Kati7
 vless://30bacb3e-a515-42bc-9e0b-5241f32e8080@190.93.246.241:80?flow=&type=ws&host=113.XN--ok0BA23WCA23lBA986QuMJX1g6PA134h6zc.inFo&path=/#Kati8
+vless://0a72843f-e4e8-4efb-a499-3dbdb74be60e@www.speedtest.net:2095?flow=&type=ws&host=DXl2--09673i3D-bloG.Dl2NeXtfLIx-InSOUND3HTML-dlDL1DIrECT2.CoM&path=/#Kati9
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.97.142.238:22222?flow=&type=ws&host=teleGraM-cHANNeL-VLesscOnFIg.SOHALa.UK&path=/telegram-channel-vlessconfig-ws&security=tls&fp=chrome&sni=teleGraM-cHANNeL-VLesscOnFIg.SOHALa.UK&alpn=h2,http/1.1#Kati10
+vless://85436460-1927-4a8b-ebcb-c713fb7b0a20@www.speedtest.net:80?flow=&type=ws&host=WS1.gSMVX.cOm&path=/gsmxserver#Kati11
