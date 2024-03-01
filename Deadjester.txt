@@ -1,1 +1,1 @@
-trojan://uPBjmutORKIl@18.170.36.55:14638?security=tls&sni=www.myethblog.com&fp=chrome&headerType=none&alpn=h2,http/1.1&type=tcp#Kati1
+vless://2f50c591-920f-476b-caae-7674b61d035e@zula.ir:2053?flow=&type=ws&host=s2.IR-Dl.cc&path=/&security=tls&fp=chrome&sni=s2.IR-Dl.cc&alpn=h2,http/1.1&mux=8#67-hz-germany-nuremberg2-vless-ws-cf-custom-mux
