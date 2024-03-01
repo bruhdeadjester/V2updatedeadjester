@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/Huibq/TrojanLinks/master/links/trojan
+trojan://uPBjmutORKIl@18.170.36.55:14638?security=tls&sni=www.myethblog.com&fp=chrome&headerType=none&alpn=h2,http/1.1&type=tcp#Kati1
