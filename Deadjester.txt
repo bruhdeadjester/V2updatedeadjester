@@ -1,2 +1,2 @@
 vless://5bdf790f-0af2-4481-a624-41b66e7e3489@discord.gg:443?type=ws&host=cdn.ircp.online&path=/@ln2ray?ed%3D2048&security=tls&fp=firefox&sni=cdn.ircp.online&alpn=h2,http/1.1&mux=8#Kati
-vless://ac587d4e-9cf2-49a1-b2e0-af9723c39ac6@zula.ir:443?flow=&type=ws&host=s3.BitserVICes.CompAnY&path=/ws/8080&security=tls&fp=chrome&sni=s3.BitserVICes.CompAnY&alpn=h2,http/1.1#73-hz-germany-nuremberg3-vless-ws-cf-custom-dns-ir
+vless://31223237-300c-492b-8fd8-8169b4dd18ae@discord.gg:2087?flow=&type=grpc&mode=gun&serviceName=&security=tls&fp=chrome&sni=mehdi2.honarestan-hegmataneh.com&alpn=h2,http/1.1#Kati2
